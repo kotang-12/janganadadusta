@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://janganadadusta.vercel.app/sitemap.xml
